@@ -57,3 +57,4 @@ between class methods and attributes and when to use them.
 - [Classes - Python](https://docs.python.org/3/tutorial/classes.html)
 - [Python Class Attributes: An Overly Thorough Guide - Toptal](https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide)
 - [Python's Instance, Class, and Static Methods Demystified - Real Python](https://realpython.com/instance-class-and-static-methods-demystified/)
+# python-p3-intro-to-class-attributes-and-methods
